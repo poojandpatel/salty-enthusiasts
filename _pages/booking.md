@@ -1,0 +1,4 @@
+---
+permalink: /booking/
+title: "Contact"
+---
